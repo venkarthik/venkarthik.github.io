@@ -6,15 +6,15 @@
   "id": "did:web:venkarthik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:venkarthik.github.io#34b139c86e26e95e47f3fd365d15bb82c220ec3fb5d44c448230702342be8471",
+      "id": "did:web:venkarthik.github.io#00feb8d9df781c79b28ba41eb9eb7fb5cb12154cffafbd1f54e0326cb1e2da77",
       "type": "JsonWebKey2020",
       "controller": "did:web:venkarthik.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "xc0wvmQ_yckWteRgkmFOjOaCauVkA_g9tdJoMrOAgo4=",
-        "y": "7PDs18lhVPltEE03sOHMOCXryRTPjIxyKzdCivBlcoc=",
-        "kid": "34b139c86e26e95e47f3fd365d15bb82c220ec3fb5d44c448230702342be8471",
+        "x": "17tZHiTrH6IcV9KtcPzyDh_RpD04UZWeR14DvWZNP04=",
+        "y": "LvQh2NdeZ1gpd51xnxh4NEN-kGsZWxAMBZ68v48akAE=",
+        "kid": "00feb8d9df781c79b28ba41eb9eb7fb5cb12154cffafbd1f54e0326cb1e2da77",
         "alg": "ES256"
       }
     }
